@@ -10,6 +10,6 @@ package com.mycompany.ejemplojava2021;
  */
     public class EjemploJava2 {
     public static void main (String [] args) {
-        System.out.println("Hola -pon aquí un nombre-");
+        System.out.println("Hola -pon aquí un nombre- escribe aqui añgo más");
     }
 }
